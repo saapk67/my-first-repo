@@ -1,29 +1,23 @@
-# This is a large heading
+# Shiji Kalangara
 
-## This is smaller heading
+### Geography
 
-And as **imagination** bodiesforth,
-The forms of theings *unknown*,the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**
+I live in a small city called Coppell in Dallas metro area, in the state of Texas, United states of America.
 
--This is 
--an unordered
--list
+### Hobbies
+-Reading
+-Cooking
+-crafts
 
-1.This is
-2.an ordered
-3.list
+### Food
 
-Here is 'some code' inthe middle of sentence.
+1.Seafood
+2.Indian food
+3.Barbeq
 
-~~~
-This is
-a block
-of code
-~~~
+Here is my contact info
 
-Here is how you make [alink](https://www.wikipedia,org/)
+email: saapk@verizon.net 
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+
 
